@@ -18,7 +18,22 @@
 **Alipax** is a technology brand focused on digital solutions, software development, and modern web experiences.
 
 We are interested in building useful, reliable, and well-engineered digital products through thoughtful design and practical technology.
+    ## Notre environnement technologique
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,python,git,github,postgresql,vscode&theme=dark" alt="Technologies"/>
+</p>
+
+## Nos espaces numériques
+
+<p align="center">
+  <a href="https://alipax.dev">
+    <img src="https://img.shields.io/badge/Site%20officiel-ALIPAX-173B2A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  <a href="https://github.com/alipax-dev">
+    <img src="https://img.shields.io/badge/GitHub-ALIPAX-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 Our approach combines technical discipline, continuous learning, and a commitment to quality.
 
 ## Areas of Focus
